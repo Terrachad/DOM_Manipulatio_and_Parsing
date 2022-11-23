@@ -1,0 +1,36 @@
+html, body {
+    margin: 0; 
+    background-color: seagreen;
+    color:white;
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+    font-weight: 500;
+    font-size: 15px;
+    display: flex;
+}
+.list-items {
+font-weight: 500;
+font-size: 25px;
+background-color: rgba(0, 0, 0, 0.2);
+margin:15px;
+border-radius: 5px;
+}
+#main-heading {
+font-weight: 800;
+font-size: 40px;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+.container{
+    text-align: center;
+    width: max(50%, 600px);
+    margin-inline: auto;
+    border: 1px;
+    border-color: aliceblue;
+    border-style: dashed;
+    border-radius: 15px;
+    
+}
