@@ -20,7 +20,7 @@ console.log("html parentNode: ", html.parentNode); //returns #document
 
 
 //Child Node Traversal
-
+console.log(ul.childNodes);
 
 
 //Sibiling Node Traversal
