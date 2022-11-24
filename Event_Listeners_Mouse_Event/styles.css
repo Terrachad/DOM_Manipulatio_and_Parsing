@@ -87,7 +87,7 @@ button {
         display:grid;
         margin: 0 45px;
         border: 1px;
-        background-color: rgba(0, 0, 0, 0.4);
+        background-color: rgba(0, 0, 0, 0.2);
         border-color: aliceblue;
         border-style:solid;
         border-radius: 15px;
@@ -111,7 +111,7 @@ button {
         margin: 10px auto;
         
         border: 1px;
-        background-color: rgba(0, 0, 0, 0.4);
+        background-color: rgba(0, 0, 0, 0.2);
         border-color: aliceblue;
         border-style:solid;
         border-radius: 15px;
